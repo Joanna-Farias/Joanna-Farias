@@ -4,7 +4,7 @@
 <div align = "center">
   <samp>
       <br>
-     ꫂ❁ Hi there! 👋 I'm <b>Joanna Farias</b>
+     ˚₊‧ʚ🐞ɞ‧₊˚ Hi there! 👋 I'm <b>Joanna Farias</b>
   </samp>
 
 ## 🌐 Socials:
