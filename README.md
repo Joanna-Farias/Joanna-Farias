@@ -46,6 +46,12 @@
 ```
 ---
 [![](https://visitcount.itsvg.in/api?id=joanna-farias&icon=4&color=0)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joanna-Farias/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joanna-Farias/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Joanna-Farias/output/snake.svg">
+</picture>   
 ⠀⠀⠀⠀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
