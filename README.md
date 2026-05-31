@@ -2,9 +2,27 @@
 
 <br>
 
-## ༄˖°.🐞.ೃ࿔*:･
-⠀⠀⠀⠀⠀
+## ༄˖°.🐞.ೃ･ Oi, sou Joanna Farias!
+Estudante de programação em evolução visando a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas como bolsista pelo programa Embarque Digital. Em busca de aprimorar minhas habilidades técnicas estudando Java e os pilares da programação orientada a objetos.
+
+### . ݁˖📝 Áreas de Interesse & Estudo:
+*   **Backend & Data Foundation:** Criando aplicações robustas em Java utilizando coleções avançadas, tratamento de exceções e fluxos eficientes de dados (Streams API).
+*   **Data Structure & Clean Code:** Utilização de diagramas UML e modelagem lógica.
+*   **Problem Solving:** Resolução de problemas complexos de lógica utilizando Java.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+### . ݁˖📂 Projetos em Destaque
+
+#### ☕ [Sistema de Processamento de Pedidos](link-do-repositorio)
+*   **Conceitos Aplicados:** Modelagem de dados, Relacionamentos de Entidades, Agregação de Dados e Enums para padronização de estado.
+*   **Destaque Técnico:** Implementação de arquitetura modular em Java para processar e resumir fluxos de compras de forma limpa e estruturada.
+
+#### ☕ [Gerenciador de Entidades e Colaboradores](link-do-repositorio)
+*   **Conceitos Aplicados:** Java Streams API, Predicates, Collections (ArrayList) e Data Quality.
+*   **Destaque Técnico:** Aplicação de conceitos funcionais para filtragem de fluxos de dados em memória e criação de algoritmos de deduplicação (validação de IDs únicos).
+
+#### 🐍 [Algoritmos e Estruturas de Dados com Python](link-do-repositorio)
+*   **Conceitos Aplicados:** Resolução de problemas (LeetCode), Otimização de código e Estruturas de Dados Lineares.
+*   **Destaque Técnico:** Repositório focado no desenvolvimento de raciocínio lógico analítico, testando abordagens de performance para manipulação de arrays.
 
 ## .☘︎ ݁˖ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanna-lmsantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johlm.sf@gmail.com) 
