@@ -2,7 +2,7 @@
 
 
 ## ༄˖°.🐞.ೃ･ Oi, sou Joanna Farias!
-  Estudante de programação em evolução visando a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas como bolsista pelo programa Embarque Digital. Em busca de aprimorar minhas habilidades técnicas estudando Java e os pilares da programação orientada a objetos.
+  Técnica em Desenvolvimento de Sistemas pela Escola Técnica Porto Digital com capacitação profissional em desenvolvimento de softwares e modelagem em banco de dados, atualmente cursando baracharelado em Análise e Desenvolvimentos de Sistemas no Centro de Estudos e Sistemas Avançados do Recife (Cesar School) como bolsista através do programa Embarque Digital. Profissional de dados em desenvolvimento, consolidando base técnica através do Java (POO avançada e Streams API) e Python (estruturas de dados e algoritmos) com foco em especialização para a área de dados.
 <br>
 
 ## .☘︎ ݁˖ Socials:
