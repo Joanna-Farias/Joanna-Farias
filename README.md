@@ -3,15 +3,16 @@
 
 ## ༄˖°.🐞.ೃ･ Oi, sou Joanna Farias!
   Estudante de programação em evolução visando a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas como bolsista pelo programa Embarque Digital. Em busca de aprimorar minhas habilidades técnicas estudando Java e os pilares da programação orientada a objetos.
-<br><br>
 
-## .☘︎ ݁˖ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanna-lmsantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johlm.sf@gmail.com) 
-<br><br>
+<br>
 ## .₊˚. Áreas de Interesse & Estudo:
   *   **Backend:** Desenvolvimento de aplicações em Java utilizando coleções, tratamento de exceções e fluxos de dados (Streams API).
 *   **Data Structure & Clean Code:** Utilização de diagramas UML e arquitetura MVC.
 *   **Problem Solving:** Resolução de problemas de lógica utilizando Java.
+<br>
+
+## .☘︎ ݁˖ Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanna-lmsantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johlm.sf@gmail.com) 
 <br>
 
 # ୭ ˚. ᵎᵎ Tech Stack:
