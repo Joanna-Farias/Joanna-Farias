@@ -3,8 +3,8 @@
 
 ## ༄˖°.🐞.ೃ･ Oi, sou Joanna Farias!
   Estudante de programação em evolução visando a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas como bolsista pelo programa Embarque Digital. Em busca de aprimorar minhas habilidades técnicas estudando Java e os pilares da programação orientada a objetos.
-
 <br>
+
 ## .₊˚. Áreas de Interesse & Estudo:
   *   **Backend:** Desenvolvimento de aplicações em Java utilizando coleções, tratamento de exceções e fluxos de dados (Streams API).
 *   **Data Structure & Clean Code:** Utilização de diagramas UML e arquitetura MVC.
