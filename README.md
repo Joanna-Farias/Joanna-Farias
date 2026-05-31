@@ -8,7 +8,8 @@
   *   **Backend:** Desenvolvimento de aplicações em Java utilizando coleções, tratamento de exceções e fluxos de dados (Streams API).
 *   **Data Structure & Clean Code:** Utilização de diagramas UML e arquitetura MVC.
 *   **Problem Solving:** Resolução de problemas de lógica utilizando Java.
-<br>   
+<br>
+
 ## .☘︎ ݁˖ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanna-lmsantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johlm.sf@gmail.com) 
 <br>
