@@ -1,7 +1,7 @@
 <div align="center">
 <h3>🐞.･ Oi, sou Joanna Farias!</h3> 
 </div>
-  Técnica em Desenvolvimento de Sistemas pela Escola Técnica Porto Digital com capacitação profissional em desenvolvimento de softwares e modelagem em banco de dados, atualmente cursando baracharelado em Análise e Desenvolvimentos de Sistemas no Centro de Estudos e Sistemas Avançados do Recife (Cesar School) como bolsista através do programa Embarque Digital. Profissional de dados em desenvolvimento, consolidando minha bagagem técnica através do Java e Python com foco em especialização para a área de Engenharia de Dados.
+<p>Técnica em Desenvolvimento de Sistemas pela Escola Técnica Porto Digital com capacitação profissional em desenvolvimento de softwares e modelagem em banco de dados, atualmente cursando baracharelado em Análise e Desenvolvimentos de Sistemas no Centro de Estudos e Sistemas Avançados do Recife (Cesar School) como bolsista através do programa Embarque Digital. Profissional de dados em desenvolvimento, consolidando minha bagagem técnica através do Java e Python com foco em especialização para a área de Engenharia de Dados.</p>
 <br>
 
 <div align="center">
