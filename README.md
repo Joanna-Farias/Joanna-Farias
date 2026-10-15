@@ -6,7 +6,7 @@
 <div align="center">
 <h3>.👤 ݁˖</h3>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanna-lmsantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johlm.sf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanna-lmsantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johlm.sf@gmail.com) [![Exercism](https://img.shields.io/badge/Exercism-00979C?style=flat&logo=exercism&logoColor=white)]([https://exercism.org/profiles/SEU_USUARIO](https://exercism.org/profiles/Joanna-Farias))
 </div>
 
 <h2 align="center"> Tech Stack</h2>
