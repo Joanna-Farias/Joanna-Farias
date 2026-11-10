@@ -4,7 +4,7 @@
 <p>Técnica em Desenvolvimento de Sistemas pela Escola Técnica Porto Digital com capacitação profissional em desenvolvimento de softwares e modelagem em banco de dados, atualmente cursando baracharelado em Análise e Desenvolvimentos de Sistemas no Centro de Estudos e Sistemas Avançados do Recife (Cesar School) como bolsista através do programa Embarque Digital. Profissional de dados em desenvolvimento, consolidando minha bagagem técnica através do Java e Python com foco em especialização para a área de Ciência de Dados e Machine Learning.</p>
 
 <div align="center">
-<h3>.👤 ݁˖</h3>
+<h3>-- 👤 -- </h3>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joanna-lmsantos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johlm.sf@gmail.com) [![Exercism](https://img.shields.io/badge/Exercism-00979C?style=flat&logo=exercism&logoColor=white)](https://exercism.org/profiles/Joanna-Farias)
 </div>
